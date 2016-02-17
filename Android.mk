@@ -20,7 +20,7 @@ LOCAL_AAPT_FLAGS += --extra-packages android.support.v7.appcompat
 
 LOCAL_PACKAGE_NAME := AudioManager
 
-LOCAL_OVERRIDES_PACKAGES := MusicFX
+#LOCAL_OVERRIDES_PACKAGES := MusicFX
 
 include $(BUILD_PACKAGE)
 
