@@ -28,17 +28,17 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 -->
 <resources>
-    <string name="app_name" translatable="false">DSP Manager</string>
+    <string name="app_name" translatable="false">Audio Manager</string>
     <string name="select_configuration_title">Select configuration to edit</string>
     <string name="headset_title">Headset</string>
     <string name="speaker_title">Speaker</string>
     <string name="bluetooth_title">Bluetooth</string>
     <string name="audio_effects">Audio effects</string>
     <string name="pref_unavailable">Functionality is not available on your device</string>
-    <string name="dsp_settings_headset">DSP settings - Headset</string>
-    <string name="dsp_settings_speaker">DSP settings - Phone speaker</string>
-    <string name="dsp_settings_bluetooth">DSP settings - Bluetooth device</string>
-    <string name="dsp_settings_wm8994">DSP settings - WM8994</string>
+    <string name="dsp_settings_headset">Audio settings - Headset</string>
+    <string name="dsp_settings_speaker">Audio settings - Phone speaker</string>
+    <string name="dsp_settings_bluetooth">Audio settings - Bluetooth device</string>
+    <string name="dsp_settings_wm8994">Audio settings - WM8994</string>
     <string name="pref_dsp_title">Dynamic range compression</string>
     <string name="pref_dsp_summary_on">Compression is enabled</string>
     <string name="pref_dsp_summary_off">Compression is disabled</string>
